@@ -1,0 +1,298 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 <?xml version="1.0" encoding="UTF-8" ?>\
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\
+<channel>\
+<title>HungryBreadElevator</title>\
+<link>http://hungrybreadelevator.substack.com/</Link>\
+<atom:link href="(Link to xml file): https://(Website Title)/index.xml" rel="self" type="application/rss+xml" />\
+< description>(Blog Posts)</description>\
+< Language>en-us</Language>\
+<lastBuildDate> Wed, 04 Jun 2025 19:30:00 -0500\
+</lastBuildDate>\
+<ttl> (Time Stamp Here - https://timestampgenerator.com (Ex. 1704594860) </ttl>\
+<item> (Add an item for every blog post)\
+<title> Disagreement is No Agreement at All </title>\
+<link>(Ex. https://(Website Title)/blog/blogpost.html) </link>\
+<description><! [DATA[\
+<!DOCTYPE html>\
+<html>\
+<head>\
+    <title>Blog Post</title>\
+    <style>\
+        body \{\
+            font-family: sans-serif;\
+            line-height: 1.6;\
+            max-width: 800px;\
+            margin: 0 auto;\
+            padding: 20px;\
+        \}\
+        h2 \{\
+            margin-top: 30px;\
+            border-bottom: 1px solid #eee;\
+            padding-bottom: 5px;\
+        \}\
+        ul \{\
+            padding-left: 20px;\
+        \}\
+        blockquote \{\
+            border-left: 3px solid #ccc;\
+            padding-left: 15px;\
+            margin-left: 0;\
+            color: #555;\
+        \}\
+        a \{\
+            color: #0066cc;\
+            text-decoration: none;\
+        \}\
+        a:hover \{\
+            text-decoration: underline;\
+        \}\
+        .progress-bar \{\
+            background-color: #f0f0f0;\
+            border-radius: 3px;\
+            padding: 2px;\
+            margin: 5px 0;\
+        \}\
+        .progress \{\
+            background-color: #666;\
+            color: white;\
+            text-align: center;\
+            border-radius: 3px;\
+            padding: 2px 0;\
+            font-size: 12px;\
+        \}\
+    </style>\
+</head>\
+<body>\
+    <h2>Today's Contents</h2>\
+    <ul>\
+        <li>Disagreement is no agreement at all</li>\
+        <li>Rogue-like Line Crawler</li>\
+        <li>Dropping tabs</li>\
+        <li>Past books and projects</li>\
+        <li>Currently writing</li>\
+        <li>What I'm Reading</li>\
+    </ul>\
+\
+    <h2>Disagreement is no agreement at all</h2>\
+    <p>At 11:43am I was wondering why I cared so much about ancient philosophy. Why do I care about Platonism and Stoicism and Epicureanism? Why do I spend my time thinking about which one is "more true." Not "true" or "completely true", just "more true." And that should tell you something about why, but for now it didn't tell me enough about why.</p>\
+\
+    <p>I don't have the answer to that question, but I have been thinking about the game of verification. By this I mean the process of verifying which claim is true, the Epicurean one or the Stoic one. It's a fun exercise, like a heady sudoku; and maybe it's even handy. ancient philosophy can provide distant analogies to juxtapose with any present situation. the juxtaposition rarely "solves" anything but it can get you unstuck from the present a bit. Getting unstuck is not nothing. What this exercise needs is an impetus not only to confirm a correct proposition but to destroy the world that created the bad one\'97 not just the incorrect one but the bad one.</p>\
+\
+    <p>As I write this I'm noticing that my parallel syntax is out of joint and that makes sense (it's perfectly brilliant of me, actually [which is to say, accidentally]) because the grammar of the game is out of joint. You can infinitely disprove false statements and prove true statements but this does little to stop or change the machine (be it person or algorithm or algorithmic person) who generate them. We see this all the time. It's the news cycle. It's the timeline. It's the two-party system. They're engaged in an infinite tennis match, an unending conversation, and the rules of this game enable them to keep playing it and never stop. These rules have to be replaced. The old game must be destroyed by the emergence of a new game, a better game. That is the impetus that goes beyond idle speculation and into the realms of delibration and creation.</p>\
+\
+    <p>Preferably, that impetus is also affective (full of joy or hatred). So the exercise is not purely intellectual but socially, emotionally, spiritual, materially important.</p>\
+\
+    <p>Ultimately, from this meditation, a practical rule emerged for me to orient with some ongoing projects: [[My response to Platonism or Stoicism cannot simply oppose the material to the immaterial, and it cannot respond to negation with affirmation.]]</p>\
+\
+    <p>An example of this is how [[Deleuze takes Epicurean atomism as a conceptual method for formalizing problems in philosophy, not physics.]] Deleuze does not oppose the atomism of Epicureanism, nor does he accept it. He works within its functions in order to apply them to another context. He applies a method of transduction. Not opposition, not confirmation, but affirmation by means of transduction. Reserve agreement and disagreement for the realm of argumentation and opinion. Leave them to argue, and while they argue go make something for yourself that actually (or accidentally) works.</p>\
+\
+    <h2>Rogue-like Line Crawler</h2>\
+    <ul>\
+        <li>Random line from unfinished work: Why do we need "critical thinking"? Because we misunderstand how we use common sense.</li>\
+    </ul>\
+\
+    <p>Random quote (insert "Telemaque" with any book. Really. Any book):</p>\
+    <blockquote>\
+        <p>Does the student want to learn how to read? Does he want to learn English or German, the art of litigation or of combat? The madman, imperturbably, will put a copy of Telemaque in his hands and the student will begin to repeat, "Calypso," "Calypso could", "Calypso could not," and so on \'85 There was only one rule: he must be able to show, in the book, the materiality of everything he says. He will he asked to write compositions and perform improvisations under the same conditions: he must use the words and turns of phrase in the book to construct his sentences; he must show, in the book, the facts on which his reasoning is based. In short, the master must be able to verify in the book the materiality of everything the student says. (Ranciere, Ignorant Schoolmaster, p. 20)</p>\
+    </blockquote>\
+\
+    <h2>Dropping Tabs</h2>\
+    <p>A friend of min recently had a son and another friend made an entire album of lullabies for that son. It's awseome: <a href="https://thebealls.bandcamp.com/album/heaps-of-little-horses">https://thebealls.bandcamp.com/album/heaps-of-little-horses</a></p>\
+\
+    <h2>Past Books and Projects</h2>\
+    <p><a href="https://www.amazon.com/dp/B0D9WJBC76/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=">A Prayer's Worth of Non Sequiturs</a></p>\
+\
+    <h2>What I'm Reading</h2>\
+    <p>Fiction Novel: "Jace and the Filigree Sky" (current title)</p>\
+    <div class="progress-bar">\
+        <div class="progress" style="width: 55%">Jace = \uc0\u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9617 \u9617 \u9617 \u9617 \u9617  55%</div>\
+    </div>\
+\
+    <h2>What I'm reading</h2>\
+    <p>Test currently reading widget:</p>\
+    \
+    <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->\
+    <style type="text/css" media="screen">\
+        .gr_custom_container_1747316191 \{\
+            /* customize your Goodreads widget container here*/\
+            border: 1px solid gray;\
+            border-radius:10px;\
+            padding: 10px 5px 10px 5px;\
+            background-color: #FFFFFF;\
+            color: #000000;\
+            width: 300px\
+        \}\
+        .gr_custom_header_1747316191 \{\
+            /* customize your Goodreads header here*/\
+            border-bottom: 1px solid gray;\
+            width: 100%;\
+            margin-bottom: 5px;\
+            text-align: center;\
+            font-size: 120%\
+        \}\
+        .gr_custom_each_container_1747316191 \{\
+            /* customize each individual book container here */\
+            width: 100%;\
+            clear: both;\
+            margin-bottom: 10px;\
+            overflow: auto;\
+            padding-bottom: 4px;\
+            border-bottom: 1px solid #aaa;\
+        \}\
+        .gr_custom_book_container_1747316191 \{\
+            /* customize your book covers here */\
+            overflow: hidden;\
+            height: 60px;\
+            float: left;\
+            margin-right: 4px;\
+            width: 39px;\
+        \}\
+        .gr_custom_author_1747316191 \{\
+            /* customize your author names here */\
+            font-size: 10px;\
+        \}\
+        .gr_custom_tags_1747316191 \{\
+            /* customize your tags here */\
+            font-size: 10px;\
+            color: gray;\
+        \}\
+        .gr_custom_rating_1747316191 \{\
+            /* customize your rating stars here */\
+            float: right;\
+        \}\
+    </style>\
+\
+    <div id="gr_custom_widget_1747316191">\
+        <div class="gr_custom_container_1747316191">\
+            <h2 class="gr_custom_header_1747316191">\
+                <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/8931602-allen?shelf=currently-reading&amp;utm_medium=api&amp;utm_source=custom_widget">Currently-reading</a>\
+            </h2>\
+            <div class="gr_custom_each_container_1747316191">\
+                <div class="gr_custom_book_container_1747316191">\
+                    <a title="Gordon Lish and His Influence on Twentieth-Century American Literature: Life and Times of Captain Fiction (Studies in Major Literary Authors)" rel="nofollow" href="https://www.goodreads.com/review/show/7568426628?utm_medium=api&amp;utm_source=custom_widget"><img alt="Gordon Lish and His Influence on Twentieth-Century American Literature: Life and Times of Captain Fiction" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677800155l/8875916._SX50_.jpg" /></a>\
+                </div>\
+                <div class="gr_custom_title_1747316191">\
+                    <a rel="nofollow" href="https://www.goodreads.com/review/show/7568426628?utm_medium=api&amp;utm_source=custom_widget">Gordon Lish and His Influence on Twentieth-Century American Literature: Life and Times of Captain Fiction</a>\
+                </div>\
+                <div class="gr_custom_author_1747316191">\
+                    by <a rel="nofollow" href="https://www.goodreads.com/author/show/9971.Michael_Hemmingson">Michael Hemmingson</a>\
+                </div>\
+            </div>\
+            <div class="gr_custom_each_container_1747316191">\
+                <div class="gr_custom_book_container_1747316191">\
+                    <a title="Conversations with Gordon Lish" rel="nofollow" href="https://www.goodreads.com/review/show/7568425870?utm_medium=api&amp;utm_source=custom_widget"><img alt="Conversations with Gordon Lish" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510695517l/36596103._SX50_.jpg" /></a>\
+                </div>\
+                <div class="gr_custom_title_1747316191">\
+                    <a rel="nofollow" href="https://www.goodreads.com/review/show/7568425870?utm_medium=api&amp;utm_source=custom_widget">Conversations with Gordon Lish</a>\
+                </div>\
+                <div class="gr_custom_author_1747316191">\
+                    by <a rel="nofollow" href="https://www.goodreads.com/author/show/17328345.Jason_Lucarelli">Jason Lucarelli</a>\
+                </div>\
+            </div>\
+            <div class="gr_custom_each_container_1747316191">\
+                <div class="gr_custom_book_container_1747316191">\
+                    <a title="On The Line (Foreign Agents Series)" rel="nofollow" href="https://www.goodreads.com/review/show/7567463302?utm_medium=api&amp;utm_source=custom_widget"><img alt="On The Line" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387751303l/118318._SY75_.jpg" /></a>\
+                </div>\
+                <div class="gr_custom_title_1747316191">\
+                    <a rel="nofollow" href="https://www.goodreads.com/review/show/7567463302?utm_medium=api&amp;utm_source=custom_widget">On The Line</a>\
+                </div>\
+                <div class="gr_custom_author_1747316191">\
+                    by <a rel="nofollow" href="https://www.goodreads.com/author/show/13009.Gilles_Deleuze">Gilles Deleuze</a>\
+                </div>\
+            </div>\
+            <div class="gr_custom_each_container_1747316191">\
+                <div class="gr_custom_book_container_1747316191">\
+                    <a title="An Episode in the Life of a Landscape Painter" rel="nofollow" href="https://www.goodreads.com/review/show/7556024358?utm_medium=api&amp;utm_source=custom_widget"><img alt="An Episode in the Life of a Landscape Painter" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327932983l/152809._SX50_.jpg" /></a>\
+                </div>\
+                <div class="gr_custom_title_1747316191">\
+                    <a rel="nofollow" href="https://www.goodreads.com/review/show/7556024358?utm_medium=api&amp;utm_source=custom_widget">An Episode in the Life of a Landscape Painter</a>\
+                </div>\
+                <div class="gr_custom_author_1747316191">\
+                    by <a rel="nofollow" href="https://www.goodreads.com/author/show/88379.C_sar_Aira">C\'e9sar Aira</a>\
+                </div>\
+            </div>\
+            <div class="gr_custom_each_container_1747316191">\
+                <div class="gr_custom_book_container_1747316191">\
+                    <a title="The Order of Things: An Archaeology of the Human Sciences" rel="nofollow" href="https://www.goodreads.com/review/show/7555201899?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Order of Things: An Archaeology of the Human Sciences" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486658551l/119561._SY75_.jpg" /></a>\
+                </div>\
+                <div class="gr_custom_title_1747316191">\
+                    <a rel="nofollow" href="https://www.goodreads.com/review/show/7555201899?utm_medium=api&amp;utm_source=custom_widget">The Order of Things: An Archaeology of the Human Sciences</a>\
+                </div>\
+                <div class="gr_custom_author_1747316191">\
+                    by <a rel="nofollow" href="https://www.goodreads.com/author/show/1260.Michel_Foucault">Michel Foucault</a>\
+                </div>\
+            </div>\
+            <br style="clear: both"/>\
+            <center>\
+                <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>\
+            </center>\
+            <noscript>\
+                Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with Allen, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.\
+            </noscript>\
+        </div>\
+    </div>\
+    <script src="https://www.goodreads.com/review/custom_widget/8931602.Currently-reading?cover_position=left&cover_size=small&num_books=5&order=d&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1747316191&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>\
+\
+    <h2>Read This Year</h2>\
+    <p>Test read widget:</p>\
+    <style type="text/css" media="screen">\
+        .gr_grid_container \{\
+            /* customize grid container div here. eg: width: 500px; */\
+        \}\
+\
+        .gr_grid_book_container \{\
+            /* customize book cover container div here */\
+            float: left;\
+            width: 39px;\
+            height: 60px;\
+            padding: 0px 0px;\
+            overflow: hidden;\
+        \}\
+    </style>\
+    <div id="gr_grid_widget_1747316337">\
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->\
+        <h2>\
+            <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/8931602-allen?shelf=read&utm_medium=api&utm_source=grid_widget">Last 200 Read</a>\
+        </h2>\
+        <div class="gr_grid_container">\
+            <div class="gr_grid_book_container"><a title="McGlue" rel="nofollow" href="https://www.goodreads.com/book/show/20949594-mcglue"><img alt="McGlue" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398195273l/20949594._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Motern on Motern: Conversations with Matt Farley and Charles Roxburgh" rel="nofollow" href="https://www.goodreads.com/book/show/55684985-motern-on-motern"><img alt="Motern on Motern: Conversations with Matt Farley and Charles Roxburgh" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602809582l/55684985._SX50_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Mythology" rel="nofollow" href="https://www.goodreads.com/book/show/23522.Mythology"><img alt="Mythology" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305000423l/23522._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="The History of Sexuality, Volume 1: An Introduction" rel="nofollow" href="https://www.goodreads.com/book/show/1875.The_History_of_Sexuality_Volume_1"><img alt="The History of Sexuality, Volume 1: An Introduction" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486236798l/1875._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Why Don't We Just Kill The Kid in the Omelas Hole" rel="nofollow" href="https://www.goodreads.com/book/show/207970983-why-don-t-we-just-kill-the-kid-in-the-omelas-hole"><img alt="Why Don't We Just Kill The Kid in the Omelas Hole" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746764100l/207970983._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Dissemination" rel="nofollow" href="https://www.goodreads.com/book/show/860486.Dissemination"><img alt="Dissemination" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347960513l/860486._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy" rel="nofollow" href="https://www.goodreads.com/book/show/22245334-the-utopia-of-rules"><img alt="The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417415465l/22245334._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Service Model" rel="nofollow" href="https://www.goodreads.com/book/show/195790861-service-model"><img alt="Service Model" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="The Pyramid Principle: Logic in Writing and Thinking" rel="nofollow" href="https://www.goodreads.com/book/show/124582544-the-pyramid-principle"><img alt="The Pyramid Principle: Logic in Writing and Thinking" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696832606l/124582544._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Bergsonism" rel="nofollow" href="https://www.goodreads.com/book/show/203326.Bergsonism"><img alt="Bergsonism" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700297999l/203326._SX50_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="The Luminous Eye: The Spiritual World Vision of Saint Ephrem the Syrian (Volume 124) (Cistercian Studies Series)" rel="nofollow" href="https://www.goodreads.com/book/show/566847.The_Luminous_Eye"><img alt="The Luminous Eye: The Spiritual World Vision of Saint Ephrem the Syrian (Volume 124)" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389473939l/566847._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="The Eucharist - Its Origins and Contexts: Sacred Meal, Communal Meal, Table Fellowship in Late Antiquity, Early Judaism, and Early Christianity. Volume ... zum Neuen Testament Book 376)" rel="nofollow" href="https://www.goodreads.com/book/show/40104690-the-eucharist---its-origins-and-contexts"><img alt="The Eucharist - Its Origins and Contexts: Sacred Meal, Communal Meal, Table Fellowship in Late Antiquity, Early Judaism, and Early Christianity. Volume ... zum Neuen Testament Book 376)" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526076846l/40104690._SX50_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="The Death of Jesus in Matthew: Innocent Blood and the End of Exile (Society for New Testament Studies Monograph Series Book 167)" rel="nofollow" href="https://www.goodreads.com/book/show/68001575-the-death-of-jesus-in-matthew"><img alt="The Death of Jesus in Matthew: Innocent Blood and the End of Exile" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671106083l/68001575._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Aurelii Prudentii Clementis viri co[n]sularis, poet\'e6, Peri Stephan\uc0\u333 n opus de Martyribus : cui acce\'dfit Philippi Melanchthonis prooimion, Carminum expensa genera, & hymnus fortunati epi [Leather Bound]" rel="nofollow" href="https://www.goodreads.com/book/show/144011770-aurelii-prudentii-clementis-viri-co-n-sularis-poet-peri-stephan-n-opu"><img alt="Aurelii Prudentii Clementis viri co[n]sularis, poet\'e6, Peri Stephan\u333 n opus de Martyribus : cui acce\'dfit Philippi Melanchthonis prooimion, Carminum expensa genera, & hymnus fortunati epi [Leather Bound]" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697028767l/144011770._SX50_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Changing Bodies, Changing Meanings: Studies on the Human Body in Antiquity" rel="nofollow" href="https://www.goodreads.com/book/show/5798637-changing-bodies-changing-meanings"><img alt="Changing Bodies, Changing Meanings: Studies on the Human Body in Antiquity" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356447645l/5798637._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="The Age of Wire and String" rel="nofollow" href="https://www.goodreads.com/book/show/155677.The_Age_of_Wire_and_String"><img alt="The Age of Wire and String" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323550510l/155677._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="The Trial" rel="nofollow" href="https://www.goodreads.com/book/show/17690.The_Trial"><img alt="The Trial" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438l/17690._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="The States of the Earth: An Ecological and Racial History of Secularization" rel="nofollow" href="https://www.goodreads.com/book/show/179270388-the-states-of-the-earth"><img alt="The States of the Earth: An Ecological and Racial History of Secularization" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687774454l/179270388._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Jewish History and Jewish Memory: Essays in Honor of Yosef Hayim Yerushalmi (TAUBER INSTITUTE FOR THE STUDY OF EUROPEAN JEWRY SERIES)" rel="nofollow" href="https://www.goodreads.com/book/show/848914.Jewish_History_and_Jewish_Memory"><img alt="Jewish History and Jewish Memory: Essays in Honor of Yosef Hayim Yerushalmi" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1178884504l/848914._SY75_.jpg" /></a></div>\
+            <div class="gr_grid_book_container"><a title="Primary Source Reader for World History, Volume II: Since 1500" rel="nofollow" href="https://www.goodreads.com/book/show/2208690.Primary_Source_Reader_for_World_History_Volume_II"><img alt="Primary Source Reader for World History, Volume II: Since 1500" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348459275l/2208690._SX50_.jpg" /></a></div>\
+            <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/8931602-allen">Allen's favorite books \'bb</a>\
+            <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Allen, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>\
+        </div>\
+    </div>\
+    <script src="https://www.goodreads.com/review/grid_widget/8931602.Last%20200%20Read?cover_size=small&hide_link=&hide_title=&num_books=200&order=d&shelf=read&sort=date_added&widget_id=1747316337" type="text/javascript" charset="utf-8"></script>\
+</body>\
+</html>\
+]]> </description>\
+<pubDate>(Date Blog Published - RFC 2822 - https://timestampgenerator.com/) (Ex. Thu, 11 Jan 2024 17:43:33 +0000)</pubDate>\
+<guid\'bb(Link back to the page) (Ex. https://(Website Title)/blog/blogpost.html) </guid>\
+</item>\
+\
+</channel>\
+</rss>}
